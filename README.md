@@ -58,7 +58,7 @@ The primary objective is to identify the strongest predictors of body fat percen
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **R**
 - **ggplot2**
@@ -70,7 +70,7 @@ The primary objective is to identify the strongest predictors of body fat percen
 
 ---
 
-## 📸 Notes on Visual Outputs & Tables
+##  Notes on Visual Outputs & Tables
 
 All plots and tables were originally generated in **R** during the coursework analysis.  
 
@@ -83,7 +83,7 @@ These visuals accurately represent the original analytical results and findings.
 
 ---
 
-## 🎯 Key Findings
+##  Key Findings
 
 - Density was identified as the strongest predictor of body fat percentage
 - Abdomen and Chest measurements showed strong positive relationships with BodyFat
@@ -94,7 +94,7 @@ These visuals accurately represent the original analytical results and findings.
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 1. Clone the repository
 2. Open the project in RStudio
