@@ -13,6 +13,8 @@ This project was originally created as part of a **Master’s coursework in Data
 - **outputs/**
   - **plots/** – archived visual outputs from the original R analysis
   - **tables/** – statistical result tables extracted from the coursework report
+- **report/**
+  - **bodyfat_statistical_analysis_report.pdf**
 - **README.md** – project overview and documentation
 
 ---
